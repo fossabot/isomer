@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fisomeric%2Fisomer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fisomeric%2Fisomer?ref=badge_shield)
+
 .. image:: https://travis-ci.org/isomeric/isomer.png?branch=master
     :target: https://travis-ci.org/isomeric/isomer
     :alt: Build Status
@@ -249,3 +251,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 -- :boat: :+1:
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fisomeric%2Fisomer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fisomeric%2Fisomer?ref=badge_large)
